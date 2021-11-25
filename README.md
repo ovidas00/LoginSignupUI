@@ -4,4 +4,5 @@ A Login Signup and Forget Password UI design using HTML and CSS
 ![Demo](https://github.com/ovidas00/LoginSignupUI/raw/main/Demo/full_demo.gif)
 ## Screenshots
 **Login Design**
+
 ![LoginSc](https://github.com/ovidas00/LoginSignupUI/raw/main/Demo/login_sc.PNG)
