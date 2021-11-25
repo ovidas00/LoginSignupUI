@@ -1,0 +1,86 @@
+body {
+    background-color:#eeeeee;
+    padding-top:30px;
+    padding-bottom:30px;
+}
+.box{
+    width:250px;
+    background-color:white;
+    margin:auto;
+    border-radius:8px;
+    border:1px solid #e0e0e0;
+    padding:20px;
+}
+form img{
+    width:70px;
+    height:70px;
+}
+form label{
+    display:flex;
+    font-size:13px;
+    padding-bottom:6px;
+}
+form input{
+    margin-bottom:10px;
+    display:flex;
+    width:90%;
+    background-color:#f5f5f5;
+    border:none;
+    padding:10px;
+    outline:none;
+    border-radius:3px;
+}
+form button{
+    background:#008dcd;
+    padding:10px;
+    border:none;
+    color:white;
+    border-radius:3px;
+    padding-left:20px;
+    padding-right:20px;
+    width:98%;
+}
+form a{
+    font-size:12px;
+}
+form .mode{
+    text-align:center ;
+    margin-bottom:20px;
+    margin:8px;
+    padding:8px;
+    font-size:14px;
+}
+form .mode a{
+    font-size:14px;
+}
+form p{
+    font-size:10px;
+    text-align:center ;
+}
+form a{
+    font-size:10px;
+    text-decoration:none;
+}
+form h3{
+    text-align:center ;
+    padding:0px;
+    margin:0px;
+}
+form .btn{
+    margin-top:12px;
+}
+form .ll{
+    font-size:12px;
+    text-decoration:none;
+    padding-left:8px;
+}
+
+form .tip{
+    margin:0px;
+    margin-bottom:25px;
+    padding:4px;
+}
+form hr{
+    border:.5px dashed #bdbdbd;
+    margin-top:15px;
+}
